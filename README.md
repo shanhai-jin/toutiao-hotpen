@@ -56,6 +56,10 @@ toutiao-hotpen/
 - 平台规则随时更新，`references/compliance-toutiao.md` 仅为公开信息整理，以官方最新公告为准
 - 热榜接口为第三方公开服务，可用性不受本项目管理；接口变更请自行更新 `fetch_hot.py` 中的地址
 
+## 致谢
+
+本项目的设计思路与功能框架，参考了作者在 WorkBuddy 平台上使用的「今日头条推文创作」skill（toutiao-hot-autopublish）的实践经验，并在此基础上以全新代码独立重写实现。
+
 ## License
 
 代码以 [MIT](LICENSE) 发布；`references/` 下的文档以 CC-BY-NC-4.0 发布（署名-非商业性使用）。
