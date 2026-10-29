@@ -1,0 +1,16 @@
+{
+  "_comment": "复制本文件为工作目录下的 accounts.json 并填写。技能不硬编码任何账号信息；accounts.json 不要提交到 git。",
+  "accounts": [
+    {
+      "name": "示例账号",
+      "signature": "署名（显示在成稿第二行）",
+      "followers_tier": "1万以下",
+      "note": "备注：赛道、人设、注意事项"
+    }
+  ],
+  "publish_limits": {
+    "daily_max_per_account": 2,
+    "min_interval_minutes": 120,
+    "preferred_slots": ["07:30-08:30", "20:00-21:30"]
+  }
+}

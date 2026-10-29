@@ -1,0 +1,14 @@
+# 个人与本地配置
+accounts.json
+*.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 产出与草稿（不入库）
+推文/
+草稿/
+drafts/
+output/
+*.log
